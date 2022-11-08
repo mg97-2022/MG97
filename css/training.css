@@ -290,10 +290,11 @@
     display: flex;
     align-items: center;
     padding-bottom: 120px;
+    padding-top: 30px !important;
   }
-  .landing .text {
+  /* .landing .text {
     flex: 1;
-  }
+  } */
   @media (max-width: 991px) {
     .landing .text {
       text-align: center;
